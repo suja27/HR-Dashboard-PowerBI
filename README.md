@@ -65,6 +65,13 @@ A clear visual segmentation helps decision-makers quickly identify and act on ke
 
 **Power Query** - was used for cleaning the data and adding custom calculated columns to enhance analysis.
 
+### Files Included
+**HRDashboard.pbix:** The main Power BI file containing all dashboards, visuals, and data analysis.
+
+**README.md**: Project documentation including overview, objectives, tools used, page descriptions, and insights.
+
+
+
 ### Conclusion
 The HR Dashboard provides a comprehensive view of workforce dynamics, enabling data-driven decision-making. Through visual insights across employee distribution, job satisfaction, promotion readiness, and retrenchment planning, HR leaders can proactively address talent gaps, recognize high performers, and optimize workforce structure. By combining Power BI's visual capabilities with Power Query’s data transformation, this project showcases how business intelligence tools can turn raw HR data into meaningful and actionable insights.
 
