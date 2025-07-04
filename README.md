@@ -46,6 +46,17 @@ Insight: Helps HR pinpoint roles that require attention, with Sales Executive an
 ### screenshot Action page
 ![image](https://github.com/user-attachments/assets/46a4c5cd-cf9b-4bf2-865f-4c28cfc3cfcc)
 
+## Action Page Overview
+The Action Page highlights employees who require immediate attention. It lists:
+
+-  **Employees due for promotion** — individuals ready to move up based on tenure or performance.
+
+-  **Employees due for retrenchment**  — individuals flagged for possible retirement or workforce reduction.
+
+A clear visual segmentation helps decision-makers quickly identify and act on key HR priorities, streamlining promotion planning and workforce optimization.
+
+
+
 
 
 ### Tools Used:
